@@ -1,4 +1,3 @@
-
 #include <assert.h>
 #include <stdlib.h>
 #include <stdio.h>
@@ -14,7 +13,7 @@ for(int a=1;a<=count;a++)
  }
 return value*2;
 }float wallis_pi(int);
-}
+
 
 int main(void) {
   float pi;
@@ -34,4 +33,3 @@ int main(void) {
     }
   }
 }
-
